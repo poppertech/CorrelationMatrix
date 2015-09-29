@@ -1,2 +1,4 @@
 # CorrelationMatrix
 Uses D3.js to create a correlation matrix
+
+Correlation Matrix displays a heatmap of the correlations between variables based upon the degrees of correlation. For example, a correlation of -1 might appear as dark blue, 0 as yellow, and 1 as red. Correlation heatmaps are particularly useful when analyzing investments because they visually indicate certain stocks or bonds have increased or decreased in value simultaneously in the past and may do so again in the future. This reduces the amount of diversification, or risk reduction, that can be obtained through holding multiple investments. For an extreme (unrealistic) example: holding a portfolio of 1000 stocks equally risky stocks with a correlation of 1 to each other has the same risk as holding any one of the 1000 on its own. Therefore, correlations are important for assessing and reducing the risk of investment portfolios.
